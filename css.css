@@ -1,0 +1,64 @@
+@charset "utf-8";
+.navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,51,104,1.00) 0%,rgba(0,63,119,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,51,104,1.00) 0%,rgba(0,63,119,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,51,104,1.00) 0%,rgba(0,63,119,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,51,104,1.00) 0%,rgba(0,63,119,1.00) 100%);
+    color: #FFFFFF;
+}
+.Cuerpo {
+	height: 2020px;
+}
+
+.navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: bolder;
+    font-size: 187%;
+}
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-item.active {
+    color: #FFFFFF;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: bolder;
+    font-size: large;
+}
+.Cuerpo .quenecesitas.hoy {
+    text-align: center;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bolder;
+    font-size: 233%;
+}
+
+td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+p {
+  margin-top: 10px;
+  font-size: 14px;
+	color:#1676DC
+}
+.Cuerpo h2 {
+	text-align: center;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-style: normal;
+	font-variant: small-caps;
+	font-weight: bolder;
+	color: #071F7F;
+	font-size: 54px;
+}
